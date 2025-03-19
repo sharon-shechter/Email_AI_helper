@@ -2,7 +2,8 @@
 
 
 ## Video 
-https://drive.google.com/file/d/1Q0p63UaAtSIK1pyiHJPmB8ahKdLWwNba/view?usp=sharing
+https://youtu.be/gcgjj3gZyF4
+
 
 ## Overview
 The **Gmail AI Helper** is a Python-based tool that connects to a Gmail account using the Gmail API, categorizes emails using a local Large Language Model (LLM), and caches results using Redis. It helps users prioritize their emails based on urgency and importance.
